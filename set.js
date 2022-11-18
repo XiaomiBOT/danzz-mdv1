@@ -6,11 +6,11 @@ global.APIs = {
 }
 
 global.APIKeys = {
-	'https://danzzapi.xyz': 'YOUR APIKEY',
+	'https://danzzapi.xyz': '92y1a7l0a6',
 }
 
 // Other
-global.apikey = ['danzz'] // Get in: https://danzzapi.xyz
+global.apikey = ['92y1a7l0a6'] // Get in: https://danzzapi.xyz
 global.apikeyprem = ['danzzprem'] // Get in: https://danzzapi.xyz
 global.apikeyvip = ['YOUR APIKEY'] // Get in: https://danzzapi.xyz
 global.namabot = ['LangBotz']
